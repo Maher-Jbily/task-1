@@ -1,0 +1,10 @@
+.map-container{
+    overflow: hidden;
+    width: 600px;
+    height: 600px;
+    border-radius: 50%;
+}
+iframe{
+    height: calc(50% + 20px);
+    height: calc(50% + 20px);
+}
